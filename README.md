@@ -86,17 +86,6 @@ High-traffic full stack platform with React.js frontend and Node.js APIs. Integr
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Nasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasirshekh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirshekh&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to full stack and cloud engineering roles. Feel free to reach out!*
