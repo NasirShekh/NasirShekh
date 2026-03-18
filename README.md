@@ -6,9 +6,9 @@
 
 *Building scalable web apps from UI to infrastructure*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nasir-shekh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-shekh-05116b190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasirshekh946@gmail.com)
-[![GCP Certified](https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification/cloud-architect)
+[![GCP Certified](https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/c27c72d7-1ae9-4bc9-b282-f89c7ebfdebc/public_url)
 
 </div>
 
